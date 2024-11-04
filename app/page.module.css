@@ -36,6 +36,12 @@
   background-color: #f5f5f5;
 }
 
+@media (prefers-color-scheme: dark) {
+  .main {
+    background-color: #000;
+  }
+}
+
 .main ol {
   font-family: var(--font-geist-mono);
   padding-left: 0;
@@ -178,10 +184,24 @@ a.secondary {
   width: 100%;
 }
 
+@media (prefers-color-scheme: dark) {
+  .showCard {
+    background: #1a1a1a;
+    color: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  }
+}
+
 .description {
   color: #666;
   line-height: 1.6;
   margin: 1.5rem 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .description {
+    color: #999;
+  }
 }
 
 .charactersSection {
@@ -201,6 +221,13 @@ a.secondary {
   border-radius: 8px;
   text-align: center;
   transition: transform 0.2s;
+}
+
+@media (prefers-color-scheme: dark) {
+  .characterCard {
+    background: #2a2a2a;
+    color: white;
+  }
 }
 
 .characterCard:hover {
