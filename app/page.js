@@ -9,28 +9,25 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   const getRandomShow = () => {
-    // 合并电影和电视剧数据
     const allShows = [...movies, ...tvs];
-    // 随机选择一个节目
     const randomIndex = Math.floor(Math.random() * allShows.length);
     const selectedShow = allShows[randomIndex];
     
-    // 转换成之前的数据格式
     return {
       title: selectedShow.title,
       description: selectedShow.overview,
-      characters: selectedShow.cast.slice(0, 10) // 只取前10个角色
+      characters: selectedShow.cast.slice(0, 10), // 只取前10个角色
+      type: movies.includes(selectedShow) ? 'Movie' : 'TV Show'
     };
   };
 
   const fetchShow = () => {
     setLoading(true);
-    // 模拟异步加载
     setTimeout(() => {
       const randomShow = getRandomShow();
       setShow(randomShow);
       setLoading(false);
-    }, 500);
+    }, 200);
   };
 
   useEffect(() => {
@@ -53,7 +50,12 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.showCard}>
-        <h1>{show.title}</h1>
+        <div className={styles.titleContainer}>
+          <h1>{show.title}</h1>
+          <span className={`${styles.badge} ${show.type === 'Movie' ? styles.movieBadge : styles.tvBadge}`}>
+            {show.type}
+          </span>
+        </div>
         <p className={styles.description}>{show.description}</p>
         
         <div className={styles.charactersSection}>

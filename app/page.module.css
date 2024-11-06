@@ -433,3 +433,39 @@ a.secondary {
     background-color: #666;
   }
 }
+
+.titleContainer {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.badge {
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 0.875rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.movieBadge {
+  background-color: #ef4444;
+  color: white;
+}
+
+.tvBadge {
+  background-color: #3b82f6;
+  color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .movieBadge {
+    background-color: #dc2626;
+  }
+  
+  .tvBadge {
+    background-color: #2563eb;
+  }
+}
