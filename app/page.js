@@ -18,7 +18,6 @@ export default function Home() {
     // 转换成之前的数据格式
     return {
       title: selectedShow.title,
-      year: selectedShow.title.match(/\((\d{4})\)/) ? selectedShow.title.match(/\((\d{4})\)/)[1] : "N/A",
       description: selectedShow.overview,
       characters: selectedShow.cast.slice(0, 10) // 只取前10个角色
     };
@@ -54,7 +53,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.showCard}>
-        <h1>{show.title} ({show.year})</h1>
+        <h1>{show.title}</h1>
         <p className={styles.description}>{show.description}</p>
         
         <div className={styles.charactersSection}>
