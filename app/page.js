@@ -1,112 +1,42 @@
 'use client';
 import { useState, useEffect } from 'react';
 import styles from './page.module.css';
+import movies from './movies.json';
+import tvs from './tvs.json';
 
 export default function Home() {
   const [show, setShow] = useState(null);
   const [loading, setLoading] = useState(true);
-  const [error, setError] = useState(null);
-  const [settings, setSettings] = useState({
-    apiUrl: '',
-    apiKey: ''
-  });
-  const [showSettings, setShowSettings] = useState(false);
 
-  // 从 localStorage 加载设置
-  useEffect(() => {
-    const savedSettings = localStorage.getItem('apiSettings');
-    if (savedSettings) {
-      const parsed = JSON.parse(savedSettings);
-      setSettings(parsed);
-      setShowSettings(false);
-    } else {
-      setShowSettings(true);
+  const getRandomShow = () => {
+    // 合并电影和电视剧数据
+    const allShows = [...movies, ...tvs];
+    // 随机选择一个节目
+    const randomIndex = Math.floor(Math.random() * allShows.length);
+    const selectedShow = allShows[randomIndex];
+    
+    // 转换成之前的数据格式
+    return {
+      title: selectedShow.title,
+      year: selectedShow.title.match(/\((\d{4})\)/) ? selectedShow.title.match(/\((\d{4})\)/)[1] : "N/A",
+      description: selectedShow.overview,
+      characters: selectedShow.cast.slice(0, 10) // 只取前10个角色
+    };
+  };
+
+  const fetchShow = () => {
+    setLoading(true);
+    // 模拟异步加载
+    setTimeout(() => {
+      const randomShow = getRandomShow();
+      setShow(randomShow);
       setLoading(false);
-    }
-  }, []);
+    }, 500);
+  };
 
-  // 保存设置
-  const saveSettings = (e) => {
-    e.preventDefault();
-    localStorage.setItem('apiSettings', JSON.stringify(settings));
-    setShowSettings(false);
+  useEffect(() => {
     fetchShow();
-  };
-
-  const fetchShow = async () => {
-    if (!settings.apiUrl || !settings.apiKey) {
-      setShowSettings(true);
-      return;
-    }
-
-    try {
-      setLoading(true);
-      const response = await fetch('/api/generate', {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json'
-        },
-        body: JSON.stringify(settings)
-      });
-      const data = await response.json();
-      setShow(JSON.parse(data));
-      setError(null);
-    } catch (err) {
-      setError('Failed to load data');
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  useEffect(() => {
-    if (settings.apiUrl && settings.apiKey) {
-      fetchShow();
-    }
-  }, [settings.apiUrl, settings.apiKey]);
-
-  // 复制到剪贴板
-  const copyToClipboard = async (text) => {
-    try {
-      await navigator.clipboard.writeText(text);
-      // 可以添加一个提示，表示复制成功
-      alert('Copied to clipboard!');
-    } catch (err) {
-      console.error('Failed to copy:', err);
-    }
-  };
-
-  if (showSettings) {
-    return (
-      <div className={styles.settingsContainer}>
-        <form onSubmit={saveSettings} className={styles.settingsForm}>
-          <h2>API Settings</h2>
-          <div className={styles.formGroup}>
-            <label htmlFor="apiUrl">API URL:</label>
-            <input
-              type="url"
-              id="apiUrl"
-              value={settings.apiUrl}
-              onChange={(e) => setSettings(prev => ({...prev, apiUrl: e.target.value}))}
-              required
-              placeholder="https://example.com/v1/chat/completions"
-            />
-          </div>
-          <div className={styles.formGroup}>
-            <label htmlFor="apiKey">API Key:</label>
-            <input
-              type="password"
-              id="apiKey"
-              value={settings.apiKey}
-              onChange={(e) => setSettings(prev => ({...prev, apiKey: e.target.value}))}
-              required
-              placeholder="Enter your API key"
-            />
-          </div>
-          <button type="submit" className={styles.saveButton}>Save Settings</button>
-        </form>
-      </div>
-    );
-  }
+  }, []);
 
   if (loading) return (
     <main className={styles.main}>
@@ -119,38 +49,11 @@ export default function Home() {
     </main>
   );
 
-  if (error) return (
-    <main className={styles.main}>
-      <div className={styles.showCard}>
-        <div className={styles.errorContainer}>
-          <div className={styles.errorIcon}>⚠️</div>
-          <h2>Oops! Something went wrong</h2>
-          <p>{error}</p>
-          <button 
-            onClick={fetchShow} 
-            className={styles.refreshButton}
-          >
-            Try Again
-          </button>
-          <button 
-            onClick={() => setShowSettings(true)} 
-            className={`${styles.refreshButton} ${styles.settingsButton}`}
-          >
-            Check Settings
-          </button>
-        </div>
-      </div>
-    </main>
-  );
-
   if (!show) return null;
 
   return (
     <main className={styles.main}>
       <div className={styles.showCard}>
-        <div className={styles.settingsIcon} onClick={() => setShowSettings(true)}>
-          ⚙️
-        </div>
         <h1>{show.title} ({show.year})</h1>
         <p className={styles.description}>{show.description}</p>
         
@@ -161,7 +64,7 @@ export default function Home() {
               <div 
                 key={index} 
                 className={styles.characterCard}
-                onClick={() => copyToClipboard(character)}
+                onClick={() => navigator.clipboard.writeText(character)}
                 title="Click to copy"
               >
                 {character}
