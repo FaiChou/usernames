@@ -49,6 +49,15 @@ export default function Home() {
 
   return (
     <main className={styles.main}>
+      <a 
+        href="https://passwords.faichou.com"
+        className={styles.jumpButton}
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        passwords
+      </a>
+      
       <div className={styles.showCard}>
         <div className={styles.titleContainer}>
           <h1>{show.title}</h1>
