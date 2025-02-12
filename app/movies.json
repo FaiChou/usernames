@@ -33,11 +33,9 @@
     "title": "The Godfather Part II",
     "overview": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
     "cast": [
-      "Don Michael Corleone",
       "Tom Hagen",
       "Kay Corleone",
       "Vito Corleone",
-      "Frederico 'Fredo' Corleone",
       "Constanzia 'Connie' Corleone",
       "Hyman Roth",
       "Frank Pentangeli",
@@ -63,45 +61,30 @@
     "title": "The Wild Robot",
     "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
     "cast": [
-      "Roz / Rummage (voice)",
-      "Fink (voice)",
-      "Brightbill (voice)",
-      "Longneck (voice)",
-      "Vontra (voice)",
-      "Paddler (voice)",
-      "Thunderbolt (voice)",
-      "Thorn (voice)",
-      "Pinktail (voice)"
-    ]
-  },
-  {
-    "title": "12 Angry Men",
-    "overview": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
-    "cast": [
-      "Juror 1",
-      "Juror 2",
-      "Juror 3",
-      "Juror 4",
-      "Juror 5",
-      "Juror 6",
-      "Juror 7",
-      "Juror 8",
-      "Juror 9"
+      "Roz / Rummage",
+      "Fink",
+      "Brightbill",
+      "Longneck",
+      "Vontra",
+      "Paddler",
+      "Thunderbolt",
+      "Thorn",
+      "Pinktail"
     ]
   },
   {
     "title": "Spirited Away",
     "overview": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
     "cast": [
-      "Chihiro Ogino / Sen (voice)",
-      "Haku (voice)",
-      "Yubaba / Zeniba (voice)",
-      "Akio Ogino (voice)",
-      "Yuko Ogino (voice)",
-      "Chichiyaku (voice)",
-      "Aniyaku (voice)",
-      "Kamaji (voice)",
-      "Kaonashi (voice)"
+      "Chihiro Ogino",
+      "Haku",
+      "Yubaba",
+      "Akio Ogino",
+      "Yuko Ogino",
+      "Chichiyaku",
+      "Aniyaku",
+      "Kamaji",
+      "Kaonashi"
     ]
   },
   {
@@ -183,15 +166,15 @@
     "title": "Your Name.",
     "overview": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
     "cast": [
-      "Taki Tachibana (voice)",
-      "Mitsuha Miyamizu (voice)",
-      "Katsuhiko Teshigawara (voice)",
-      "Sayaka Natori (voice)",
-      "Tsukasa Fujii (voice)",
-      "Shinta Takagi (voice)",
-      "Yotsuha Miyamizu (voice)",
-      "Toshiki Miyamizu (voice)",
-      "Futaha Miyamizu (voice)"
+      "Taki Tachibana",
+      "Mitsuha Miyamizu",
+      "Katsuhiko Teshigawara",
+      "Sayaka Natori",
+      "Tsukasa Fujii",
+      "Shinta Takagi",
+      "Yotsuha Miyamizu",
+      "Toshiki Miyamizu",
+      "Futaha Miyamizu"
     ]
   },
   {
@@ -202,7 +185,6 @@
       "Gandalf",
       "Aragorn",
       "Sam",
-      "Gollum / Smeagol",
       "Merry",
       "Pippin",
       "Denethor",
@@ -225,26 +207,18 @@
     ]
   },
   {
-    "title": "David Attenborough: A Life on Our Planet",
-    "overview": "The story of life on our planet by the man who has seen more of the natural world than any other. In more than 90 years, Attenborough has visited every continent on the globe, exploring the wild places of our planet and documenting the living world in all its variety and wonder. Addressing the biggest challenges facing life on our planet, the film offers a powerful message of hope for future generations.",
-    "cast": [
-      "Self",
-      "Young David"
-    ]
-  },
-  {
     "title": "The Good, the Bad and the Ugly",
     "overview": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
     "cast": [
       "Blondie",
       "Tuco Ramirez",
-      "Sentenza / Angel Eyes",
+      "Sentenza",
       "Alcoholic Union Captain",
       "Father Pablo Ramirez",
       "Maria",
       "Storekeeper",
       "Tuco Henchman",
-      "Bill Carson / Jackson"
+      "Bill Carson"
     ]
   },
   {
@@ -281,15 +255,14 @@
     "title": "Grave of the Fireflies",
     "overview": "In the final months of World War II, 14-year-old Seita and his sister Setsuko are orphaned when their mother is killed during an air raid in Kobe, Japan. After a falling out with their aunt, they move into an abandoned bomb shelter. With no surviving relatives and their emergency rations depleted, Seita and Setsuko struggle to survive.",
     "cast": [
-      "Seita (voice)",
-      "Setsuko (voice)",
-      "Mother (voice)",
-      "Auntie (voice)",
-      "Woman who takes care of Setsuko (voice)",
-      "Obayashi Chairman (voice)",
-      "Cousin (voice)",
-      "Gosaku (voice)",
-      "Aunt's House Guest (voice)"
+      "Seita",
+      "Setsuko",
+      "Mother",
+      "Auntie",
+      "Obayashi Chairman",
+      "Cousin",
+      "Gosaku",
+      "Aunt's House Guest"
     ]
   },
   {
@@ -297,12 +270,9 @@
     "overview": "A filmmaker recalls his childhood, when he fell in love with the movies at his village's theater and formed a deep friendship with the theater's projectionist.",
     "cast": [
       "Alfredo",
-      "Salvatore 'Totò' Di Vita (adult)",
-      "Salvatore 'Totò' Di Vita (teen)",
-      "Salvatore 'Totò' Di Vita (child)",
-      "Elena Mendola (teen) / Elena's daughter (in Director's cut)",
-      "Maria Di Vita (young)",
-      "Maria Di Vita (aged)",
+      "Salvatore 'Totò' Di Vita",
+      "Elena Mendola",
+      "Maria Di Vita",
       "Spaccafico",
       "Anna"
     ]
@@ -345,8 +315,7 @@
       "Tyler Durden",
       "Marla Singer",
       "Robert Paulson",
-      "Angel Face",
-      "Richard Chesler (Regional Manager)",
+      "Richard Chesler",
       "The Mechanic",
       "Ricky",
       "Intern at Hospital"
@@ -448,10 +417,7 @@
     "cast": [
       "Julianne Mitchell",
       "Gabriel Emerson",
-      "Tom Mitchell",
-      "",
-      "",
-      ""
+      "Tom Mitchell"
     ]
   },
   {
@@ -467,19 +433,6 @@
       "Masakazu",
       "Jinai Chijiiwa",
       "Retainer"
-    ]
-  },
-  {
-    "title": "Burn the Stage: The Movie",
-    "overview": "Burn the Stage: the Movie is the first movie from BTS, going behind-the-scenes of the BTS WINGS TOUR to reveal the full story of the band’s meteoric rise to fame. This unmissable film provides an intimate look at what happens when the most successful global boy band of all time breaks down barriers and invades the mainstream music scene. Exclusive tour footage and brand-new one-on-one interviews with BTS members give fans an unprecedented glimpse into their lives and an opportunity for everyone to celebrate together worldwide.",
-    "cast": [
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself"
     ]
   },
   {
@@ -501,25 +454,23 @@
     "title": "Primal: Tales of Savagery",
     "overview": "Genndy Tartakovsky's Primal: Tales of Savagery features a caveman and a dinosaur on the brink of extinction. Bonded by tragedy, this unlikely friendship becomes the only hope of survival.",
     "cast": [
-      "Spear / Big Gorilla / Monkey #3 (voice)",
-      "Krog / Shaman (voice)",
-      "",
-      ""
+      "Spear / Big Gorilla / Monkey #3",
+      "Krog / Shaman"
     ]
   },
   {
     "title": "Howl's Moving Castle",
     "overview": "Sophie, a young milliner, is turned into an elderly woman by a witch who enters her shop and curses her. She encounters a wizard named Howl and gets caught up in his resistance to fighting for the king.",
     "cast": [
-      "Sophie (voice)",
-      "Howl (voice)",
-      "Witch of the Waste (voice)",
-      "Calcifer (voice)",
-      "Markl (voice)",
-      "Kosho (voice)",
-      "Prince Justin / Turnip Head (voice)",
-      "King of Ingary (voice)",
-      "Heen (voice)"
+      "Sophie",
+      "Howl",
+      "Witch of the Waste",
+      "Calcifer",
+      "Markl",
+      "Kosho",
+      "Prince Justin / Turnip Head",
+      "King of Ingary",
+      "Heen"
     ]
   },
   {
@@ -531,7 +482,7 @@
       "Aragorn",
       "Sam",
       "Gollum",
-      "Gimli / Treebeard (voice)",
+      "Gimli / Treebeard",
       "Legolas",
       "Théoden",
       "Éowyn"
@@ -541,15 +492,15 @@
     "title": "Spider-Man: Into the Spider-Verse",
     "overview": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
     "cast": [
-      "Miles Morales (voice)",
-      "Peter B. Parker (voice)",
-      "Gwen Stacy (voice)",
-      "Uncle Aaron (voice)",
-      "Jefferson Davis (voice)",
-      "Aunt May (voice)",
-      "Rio Morales (voice)",
-      "Mary Jane (voice)",
-      "Spider-Ham (voice)"
+      "Miles Morales",
+      "Peter B. Parker",
+      "Gwen Stacy",
+      "Uncle Aaron",
+      "Jefferson Davis",
+      "Aunt May",
+      "Rio Morales",
+      "Mary Jane",
+      "Spider-Ham"
     ]
   },
   {
@@ -594,30 +545,17 @@
       "Darth Vader",
       "Chewbacca",
       "R2-D2",
-      "Yoda (Voice)"
-    ]
-  },
-  {
-    "title": "Bring the Soul: The Movie",
-    "overview": "A glimpse into K-pop group BTS’ world away from the stage, featuring intimate group discussions alongside spectacular concert performances from their world tour.",
-    "cast": [
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself"
+      "Yoda"
     ]
   },
   {
     "title": "Dou kyu sei – Classmates",
     "overview": "Rihito Sajo, an honor student with a perfect score on the entrance exam and Hikaru Kusakabe, in a band and popular among girls, would have never crossed paths. Until one day they started talking at the practice for their school’s upcoming chorus festival. After school, the two meet regularly, as Hikaru helps Rihito to improve his singing skills. While they listen to each other’s voice and harmonize, their hearts start to beat together.",
     "cast": [
-      "Rihito Sajo (voice)",
-      "Hikaru Kusakabe (voice)",
-      "Manabu Hara (voice)",
-      "Mikipon (voice)"
+      "Rihito Sajo",
+      "Hikaru Kusakabe",
+      "Manabu Hara",
+      "Mikipon"
     ]
   },
   {
@@ -638,15 +576,15 @@
     "title": "A Silent Voice: The Movie",
     "overview": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
     "cast": [
-      "Shouya Ishida (voice)",
-      "Shouko Nishimiya (voice)",
-      "Yuzuru Nishimiya (voice)",
-      "Tomohiro Nagatsuka (voice)",
-      "Naoka Ueno (voice)",
-      "Miyoko Sahara (voice)",
-      "Miki Kawai (voice)",
-      "Satoshi Mashiba (voice)",
-      "Young Shouya Ishida (voice)"
+      "Shouya Ishida",
+      "Shouko Nishimiya",
+      "Yuzuru Nishimiya",
+      "Tomohiro Nagatsuka",
+      "Naoka Ueno",
+      "Miyoko Sahara",
+      "Miki Kawai",
+      "Satoshi Mashiba",
+      "Young Shouya Ishida"
     ]
   },
   {
@@ -670,8 +608,6 @@
     "cast": [
       "Władysław 'Władek' Szpilman",
       "Captain Wilm Hosenfeld",
-      "Father",
-      "Mother",
       "Dorota",
       "Henryk Szpilman",
       "Regina Szpilman",
@@ -728,45 +664,30 @@
     "title": "The Legend of Hei",
     "overview": "When cat spirit Luo Xiaohei's home is deforested by humans, he must find a new one. He runs into a group of other spirit creatures who take him under their wing with dreams of reconquering the land they say is rightfully theirs. However, they run into a human known as Wuxian who separates Luo Xiaohei from the other spirits and the two go on a journey, with the cat spirit learning to control his abilities as well as forming his own thoughts on whether or not he should ally with the spirits or the humans.",
     "cast": [
-      "Luo Xiaohei / Nezha (voice)",
-      "Wuxian (voice)",
-      "Fengxi (voice)",
-      "Luozhu (voice)",
-      "Xuhuai (voice)",
-      "Tianhu (voice)",
-      "Ruoshui (voice)",
-      "Flower Spirit (voice)",
-      "Guild Master (voice)"
+      "Luo Xiaohei / Nezha",
+      "Wuxian",
+      "Fengxi",
+      "Luozhu",
+      "Xuhuai",
+      "Tianhu",
+      "Ruoshui",
+      "Flower Spirit",
+      "Guild Master"
     ]
   },
   {
     "title": "Spider-Man: Across the Spider-Verse",
     "overview": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse’s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
     "cast": [
-      "Miles Morales (voice)",
-      "Gwen Stacy (voice)",
-      "Jeff Morales (voice)",
-      "Rio Morales (voice)",
-      "Peter B. Parker (voice)",
-      "Miguel O'Hara (voice)",
-      "Spot (voice)",
-      "Jessica Drew (voice)",
-      "Hobie Brown (voice)"
-    ]
-  },
-  {
-    "title": "TAYLOR SWIFT | THE ERAS TOUR",
-    "overview": "The cultural phenomenon continues on the big screen! Immerse yourself in this once-in-a-lifetime concert film experience with a breathtaking, cinematic view of the history-making tour.",
-    "cast": [
-      "Self",
-      "Self - Co-Band Leader, Guitar, Keyboards",
-      "Self - Co-Band Leader, Guitar, Keyboards",
-      "Self - Guitar",
-      "Self - Bass, Keyboard Bass",
-      "Self - Drums",
-      "Self - Keyboards",
-      "Self - Background Vocalist Section Leader",
-      "Self - Background Vocalist Dance Captain"
+      "Miles Morales",
+      "Gwen Stacy",
+      "Jeff Morales",
+      "Rio Morales",
+      "Peter B. Parker",
+      "Miguel O'Hara",
+      "Spot",
+      "Jessica Drew",
+      "Hobie Brown"
     ]
   },
   {
@@ -800,21 +721,6 @@
     ]
   },
   {
-    "title": "Ennio",
-    "overview": "A portrait of Ennio Morricone, the most popular and prolific film composer of the 20th century, the one most loved by the international public, a two-time Oscar winner and the author of over five hundred unforgettable scores.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
-    ]
-  },
-  {
     "title": "American History X",
     "overview": "Derek Vineyard is paroled after serving 3 years in prison for killing two African-American men. Through his brother, Danny Vineyard's narration, we learn that before going to prison, Derek was a skinhead and the leader of a violent white supremacist gang that committed acts of racial crime throughout L.A. and his actions greatly influenced Danny. Reformed and fresh out of prison, Derek severs contact with the gang and becomes determined to keep Danny from going down the same violent path as he did.",
     "cast": [
@@ -830,25 +736,9 @@
     ]
   },
   {
-    "title": "Taylor Swift: Reputation Stadium Tour",
-    "overview": "Taylor Swift takes the stage in Dallas for the Reputation Stadium Tour and celebrates a monumental night of music, memories and visual magic.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
-    ]
-  },
-  {
     "title": "The Count of Monte-Cristo",
     "overview": "Edmond Dantes becomes the target of a sinister plot and is arrested on his wedding day for a crime he did not commit. After 14 years in the island prison of Château d’If, he manages a daring escape. Now rich beyond his dreams, he assumes the identity of the Count of Monte-Cristo and exacts his revenge on the three men who betrayed him.",
     "cast": [
-      "Edmond Dantès / le Comte de Monte-Cristo / Lord Halifax",
       "Fernand de Morcerf",
       "Mercédès Herrera",
       "Haydée",
@@ -866,56 +756,54 @@
       "Kingo Gondo",
       "Chief Detective Tokura",
       "Reiko Gondo",
-      "Kawanishi, Gondo's secretary",
+      "Kawanishi",
       "Detective Arai",
       "Chief Detective 'Bos'n' Taguchi",
       "Detective Nakao",
-      "Chief of Investigation Section",
-      "Kamiya, National Shoes Publicity Director"
+      "Kamiya"
     ]
   },
   {
     "title": "Princess Mononoke",
     "overview": "Ashitaka, a prince of the disappearing Emishi people, is cursed by a demonized boar god and must journey to the west to find a cure. Along the way, he encounters San, a young human woman fighting to protect the forest, and Lady Eboshi, who is trying to destroy it. Ashitaka must find a way to bring balance to this conflict.",
     "cast": [
-      "Ashitaka (voice)",
-      "San (voice)",
-      "Eboshi Gozen (voice)",
-      "Jikobo (voice)",
-      "Kouroku (voice)",
-      "Gonza (voice)",
-      "Mrs. Moro (voice)",
-      "Mrs. Hii (voice)",
-      "Chief of Affairs (voice)"
+      "Ashitaka",
+      "San",
+      "Eboshi Gozen",
+      "Jikobo",
+      "Kouroku",
+      "Gonza",
+      "Mrs. Moro",
+      "Mrs. Hii"
     ]
   },
   {
     "title": "The Quintessential Quintuplets Movie",
     "overview": "When five lovely young girls who hate studying hire part-time tutor Futaro, he guides not only their education but also their hearts. Time spent has brought them all closer, with feelings growing within the girls and Futaro. As they finish their third year of high school and their last school festival approaches, they set their sights on what’s next. Is there a future with one of them and Futaro?",
     "cast": [
-      "Fuutarou Uesugi (voice)",
-      "Ichika Nakano (voice)",
-      "Nino Nakano (voice)",
-      "Miku Nakano (voice)",
-      "Yotsuba Nakano (voice)",
-      "Itsuki Nakano (voice)",
-      "Raiha Uesugi (voice)",
-      "Isanari Uesugi (voice)"
+      "Fuutarou Uesugi",
+      "Ichika Nakano",
+      "Nino Nakano",
+      "Miku Nakano",
+      "Yotsuba Nakano",
+      "Itsuki Nakano",
+      "Raiha Uesugi",
+      "Isanari Uesugi"
     ]
   },
   {
     "title": "Once Upon a Studio",
     "overview": "Created for Disney's 100th anniversary, the short features Mickey Mouse corralling a gallery of legendary Disney characters for a group photo.",
     "cast": [
-      "Mickey Mouse (voice)",
-      "Minnie Mouse (voice)",
-      "Donald Duck (voice)",
-      "Goofy / Pluto (voice)",
-      "Baloo / Winnie-the-Pooh (voice)",
-      "Moana (voice)",
-      "Anna (voice)",
-      "Tiana (voice)",
-      "Flash (voice)"
+      "Mickey Mouse",
+      "Minnie Mouse",
+      "Donald Duck",
+      "Goofy / Pluto",
+      "Baloo / Winnie-the-Pooh",
+      "Moana",
+      "Anna",
+      "Tiana",
+      "Flash"
     ]
   },
   {
@@ -952,15 +840,15 @@
     "title": "Perfect Blue",
     "overview": "Encouraged by her managers, rising pop star Mima takes on a recurring role on a popular TV show, when suddenly her handlers and collaborators begin turning up murdered.",
     "cast": [
-      "Mima Kirigoe (voice)",
-      "Rumi (voice)",
-      "Rei (voice)",
-      "Mamoru Uchida (voice)",
-      "Tadokoro (voice)",
-      "Yukiko (voice)",
-      "Tejima (voice)",
-      "Takao Shibuya (voice)",
-      "Sakuragi (voice)"
+      "Mima Kirigoe",
+      "Rumi",
+      "Rei",
+      "Mamoru Uchida",
+      "Tadokoro",
+      "Yukiko",
+      "Tejima",
+      "Takao Shibuya",
+      "Sakuragi"
     ]
   },
   {
@@ -982,15 +870,12 @@
     "title": "Hotarubi no Mori e",
     "overview": "One hot summer day a little girl gets lost in an enchanted forest of the mountain god where spirits reside. A young boy appears before her, but she cannot touch him for fear of making him disappear. And so a wondrous adventure awaits...",
     "cast": [
-      "Hotaru's Mother (voice)",
-      "Ryouta (voice)",
-      "Hotaru Takegawa (voice)",
-      "Gin (voice)",
-      "Hotaru's Grandfather (voice)",
-      "Shadow (voice)",
-      "Tree Hand (voice)",
-      "Masked Child (voice)",
-      "Lion (voice)"
+      "Ryouta",
+      "Hotaru Takegawa",
+      "Gin",
+      "Tree Hand",
+      "Masked Child",
+      "Lion"
     ]
   },
   {
@@ -1016,20 +901,14 @@
       "Mathilda Lando",
       "Norman Stansfield",
       "Tony",
-      "Malky",
-      "Mathilda's Father",
-      "Mathilda's Mother",
-      "Mathilda's Sister",
-      "Mathilda's Brother"
+      "Malky"
     ]
   },
   {
     "title": "The Great Dictator",
     "overview": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
     "cast": [
-      "Adenoid Hynkel, Dictator of Tomania / A Jewish Barber",
       "Hannah",
-      "Benzino Napaloni, Dictator of Bacteria",
       "Commander Schultz",
       "Garbitsch",
       "Field Marshal Herring",
@@ -1047,40 +926,21 @@
       "Néstor",
       "Ortega",
       "Victoria",
-      "Nixon",
-      "",
-      "",
-      ""
-    ]
-  },
-  {
-    "title": "One Direction: This Is Us",
-    "overview": "\"One Direction: This Is Us\" is a captivating and intimate all-access look at life on the road for the global music phenomenon. Weaved with stunning live concert footage, this inspiring feature film tells the remarkable story of Niall, Zayn, Liam, Harry and Louis' meteoric rise to fame, from their humble hometown beginnings and competing on the X-Factor, to conquering the world and performing at London’s famed O2 Arena. Hear it from the boys themselves and see through their own eyes what it's really like to be One Direction.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
+      "Nixon"
     ]
   },
   {
     "title": "Neon Genesis Evangelion: The End of Evangelion",
     "overview": "Seele orders an all-out attack on NERV, aiming to destroy the Evas before Gendo can trigger Third Impact and Instrumentality under his control.",
     "cast": [
-      "Shinji Ikari (voice)",
-      "Rei Ayanami / Yui Ikari (voice)",
-      "Misato Katsuragi (voice)",
-      "Asuka Langley Soryu (voice)",
-      "Gendo Ikari (voice)",
-      "Maya Ibuki (voice)",
-      "Shigeru Aoba (voice)",
-      "Makoto Hyouga (voice)",
-      "Ritsuko Akagi (voice)"
+      "Shinji Ikari",
+      "Misato Katsuragi",
+      "Asuka Langley Soryu",
+      "Gendo Ikari",
+      "Maya Ibuki",
+      "Shigeru Aoba",
+      "Makoto Hyouga",
+      "Ritsuko Akagi"
     ]
   },
   {
@@ -1089,28 +949,20 @@
     "cast": [
       "Kanji Watanabe",
       "Sakai",
-      "Mitsuo, son of Kanji",
       "Ohara",
       "Toyo",
       "Kimura",
-      "Noguchi",
-      "Subordinate Clerk Saito",
-      "Sub-Section Chief Ono"
+      "Noguchi"
     ]
   },
   {
     "title": "Modern Times",
     "overview": "A bumbling tramp desires to build a home with a young woman, yet is thwarted time and time again by his lack of experience and habit of being in the wrong place at the wrong time..",
     "cast": [
-      "The Tramp (A Factory Worker)",
       "A Gamin",
-      "Cafe Proprietor",
       "Big Bill",
       "Mechanic",
-      "Burglar",
-      "Gamin's Father",
-      "President of the Electro Steel Corp.",
-      "Prison Cellmate"
+      "Burglar"
     ]
   },
   {
@@ -1124,7 +976,6 @@
       "Morton",
       "Sam",
       "Frank's Gunman",
-      "Frank's Gunman",
       "Sheriff"
     ]
   },
@@ -1137,10 +988,7 @@
       "Her Grandmother",
       "An Eccentric Millionaire",
       "His Butler",
-      "A Prizefighter",
-      "Street Sweeper / Burglar (uncredited)",
-      "Boxing Fight Referee (uncredited)",
-      "Mayor / Blind Girl's Downstairs Neighbor (uncredited)"
+      "A Prizefighter"
     ]
   },
   {
@@ -1171,16 +1019,6 @@
       "Magalie",
       "Adama",
       "Albert"
-    ]
-  },
-  {
-    "title": "The Boy, the Mole, the Fox and the Horse",
-    "overview": "The unlikely friendship of a boy, a mole, a fox and a horse traveling together in the boy's search for home.",
-    "cast": [
-      "The Boy (voice)",
-      "The Mole (voice)",
-      "The Fox (voice)",
-      "The Horse (voice)"
     ]
   },
   {
@@ -1217,30 +1055,30 @@
     "title": "Violet Evergarden: The Movie",
     "overview": "As the world moves on from the war and technological advances bring changes to her life, Violet still hopes to see her lost commanding officer again.",
     "cast": [
-      "Violet Evergarden (voice)",
-      "Gilbert Bougainvillea (voice)",
-      "Claudia Hodgins (voice)",
-      "Dietfried Bougainvillea (voice)",
-      "Iris Cannary (voice)",
-      "Benedict Blue (voice)",
-      "Cattleya Baudelaire (voice)",
-      "Erica Brown (voice)",
-      "Ulysses (voice)"
+      "Violet Evergarden",
+      "Gilbert Bougainvillea",
+      "Claudia Hodgins",
+      "Dietfried Bougainvillea",
+      "Iris Cannary",
+      "Benedict Blue",
+      "Cattleya Baudelaire",
+      "Erica Brown",
+      "Ulysses"
     ]
   },
   {
     "title": "Josee, the Tiger and the Fish",
     "overview": "With dreams of diving abroad, Tsuneo gets a job assisting Josee, an artist whose imagination takes her far beyond her wheelchair. But when the tide turns against them, they push each other to places they never thought possible, and inspire a love fit for a storybook.",
     "cast": [
-      "Tsuneo Suzukawa (voice)",
-      "Kumiko 'Josee' Yamamura (voice)",
-      "Mai Ninomiya (voice)",
-      "Hayato Matsuura (voice)",
-      "Kana Kishimoto (voice)",
-      "Chizu Yamamura (voice)",
-      "Professor Kondo (voice)",
-      "Nishida (voice)",
-      "Mizushima (voice)"
+      "Tsuneo Suzukawa",
+      "Kumiko 'Josee' Yamamura",
+      "Mai Ninomiya",
+      "Hayato Matsuura",
+      "Kana Kishimoto",
+      "Chizu Yamamura",
+      "Professor Kondo",
+      "Nishida",
+      "Mizushima"
     ]
   },
   {
@@ -1262,18 +1100,17 @@
     "title": "Given",
     "overview": "The relationship between a band's bassist, their drummer, and the drummer’s roommate and ex-boyfriend, who is a professional violinist.",
     "cast": [
-      "Akihiko Kaji (voice)",
-      "Haruki Nakayama (voice)",
-      "Mafuyu Satou (voice)",
-      "Ritsuka Uenoyama (voice)",
-      "Ugetsu Murata (voice)"
+      "Akihiko Kaji",
+      "Haruki Nakayama",
+      "Mafuyu Satou",
+      "Ritsuka Uenoyama",
+      "Ugetsu Murata"
     ]
   },
   {
     "title": "The Legend of 1900",
     "overview": "The story of a virtuoso piano player who lives his entire life aboard an ocean liner. Born and raised on the ship, 1900 (Tim Roth) learned about the outside world through interactions with passengers, never setting foot on land, even for the love of his life. Years later, the ship may be destroyed, and a former band member fears that 1900 may still be aboard, willing to go down with the ship.",
     "cast": [
-      "Danny Boodmann T.D. Lemon Nineteen Hundred '1900'",
       "Max Tooney",
       "The Girl",
       "Danny Boodmann",
@@ -1291,7 +1128,6 @@
       "Geo Cassine",
       "Roland Darban",
       "Manu Borelli",
-      "Vossellin / Monseigneur",
       "Claude Gaspard",
       "Le lieutenant Grinval",
       "Le directeur de la prison",
@@ -1310,7 +1146,6 @@
       "Elide",
       "Romolo Catenacci",
       "Gabriella",
-      "Anna Catenacci, Romolo's wife",
       "Maria"
     ]
   },
@@ -1318,15 +1153,15 @@
     "title": "The Lion King",
     "overview": "Taking inspiration from Shakespeare's Hamlet, a young lion prince grows up in exile after his father is killed by his villainous uncle, and returns years later to reclaim his throne.",
     "cast": [
-      "Simba (voice)",
-      "Nala (voice)",
-      "Timon (voice)",
-      "Pumbaa (voice)",
-      "Mufasa (voice)",
-      "Scar (voice)",
-      "Rafiki (voice)",
-      "Zazu (voice)",
-      "Young Simba (voice)"
+      "Simba",
+      "Nala",
+      "Timon",
+      "Pumbaa",
+      "Mufasa",
+      "Scar",
+      "Rafiki",
+      "Zazu",
+      "Young Simba"
     ]
   },
   {
@@ -1378,15 +1213,14 @@
     "title": "Evangelion: 3.0+1.0 Thrice Upon a Time",
     "overview": "In the aftermath of the Fourth Impact, stranded without their Evangelions, Shinji, Asuka and Rei find refuge in one of the rare pockets of humanity that still exist on the ruined planet Earth. There, each lives a life far different from their days as an Evangelion pilot. However, the danger to the world is far from over. A new impact is looming on the horizon—one that will prove to be the true end of Evangelion.",
     "cast": [
-      "Shinji Ikari (voice)",
-      "Asuka Shikinami Langley (voice)",
-      "Mari Illustrious Makinami (voice)",
-      "Rei Ayanami / Yui Ikari (voice)",
-      "Misato Katsuragi (voice)",
-      "Ritsuko Akagi (voice)",
-      "Toji Suzuhara (voice)",
-      "Kensuke Aida (voice)",
-      "Hikari Horaki (voice)"
+      "Shinji Ikari",
+      "Asuka Shikinami Langley",
+      "Mari Illustrious Makinami",
+      "Misato Katsuragi",
+      "Ritsuko Akagi",
+      "Toji Suzuhara",
+      "Kensuke Aida",
+      "Hikari Horaki"
     ]
   },
   {
@@ -1423,43 +1257,30 @@
     "title": "Avengers: Endgame",
     "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
     "cast": [
-      "Tony Stark / Iron Man",
-      "Steve Rogers / Captain America",
-      "Bruce Banner / Hulk",
+      "Tony Stark",
+      "Steve Rogers",
+      "Bruce Banner",
       "Thor",
-      "Natasha Romanoff / Black Widow",
-      "Clint Barton / Hawkeye",
+      "Natasha Romanoff",
+      "Clint Barton",
       "Thanos",
-      "James Rhodes / War Machine",
-      "Scott Lang / Ant-Man"
-    ]
-  },
-  {
-    "title": "BTS World Tour: Love Yourself in Seoul",
-    "overview": "Shot at the Olympic Stadium in Seoul during the BTS World Tour ‘Love Yourself’ to celebrate the seven members of the global boyband and their unprecedented international phenomenon.",
-    "cast": [
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself",
-      "Himself"
+      "James Rhodes",
+      "Scott Lang"
     ]
   },
   {
     "title": "Avengers: Infinity War",
     "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
     "cast": [
-      "Tony Stark / Iron Man",
-      "Steve Rogers / Captain America",
+      "Tony Stark",
+      "Steve Rogers",
       "Thor",
       "Thanos",
-      "Bruce Banner / Hulk",
-      "Natasha Romanoff / Black Widow",
-      "James Rhodes / War Machine",
+      "Bruce Banner",
+      "Natasha Romanoff",
+      "James Rhodes",
       "Doctor Strange",
-      "Peter Parker / Spider-Man"
+      "Peter Parker"
     ]
   },
   {
@@ -1481,15 +1302,15 @@
     "title": "Klaus",
     "overview": "When Jesper distinguishes himself as the Postal Academy's worst student, he is sent to Smeerensburg, a small village located on an icy island above the Arctic Circle, where grumpy inhabitants barely exchange words, let alone letters. Jesper is about to give up and abandon his duty as a postman when he meets local teacher Alva and Klaus, a mysterious carpenter who lives alone in a cabin full of handmade toys.",
     "cast": [
-      "Jesper (voice)",
-      "Klaus (voice)",
-      "Alva (voice)",
-      "Mrs. Krum (voice)",
-      "Mogens (voice)",
-      "Mr. Ellingboe (voice)",
-      "Pumpkin / Olaf (voice)",
-      "Ellingboe Girl 3 (voice)",
-      "Margu (voice)"
+      "Jesper",
+      "Klaus",
+      "Alva",
+      "Mrs. Krum",
+      "Mogens",
+      "Mr. Ellingboe",
+      "Pumpkin / Olaf",
+      "Ellingboe Girl 3",
+      "Margu"
     ]
   },
   {
@@ -1501,7 +1322,6 @@
       "Steve O'Connor Després",
       "Paul",
       "Patrick",
-      "Director of Correctional Center",
       "Marthe",
       "Natacha",
       "Kyla's Daughter"
@@ -1511,78 +1331,58 @@
     "title": "Rascal Does Not Dream of a Dreaming Girl",
     "overview": "In Fujisawa, Sakuta Azusagawa is in his second year of high school. Blissful days with his girlfriend and upperclassman, Mai Sakurajima, are interrupted by the appearance of his first crush, Shoko Makinohara.",
     "cast": [
-      "Sakuta Azusagawa (voice)",
-      "Mai Sakurajima (voice)",
-      "Kaede Azusagawa (voice)",
-      "Tomoe Koga (voice)",
-      "Rio Futaba (voice)",
-      "Nodoka Toyohama (voice)",
-      "Shoko Makinohara (voice)",
-      "Saki Kamisato (voice)",
-      "Yuma Kunimi (voice)"
-    ]
-  },
-  {
-    "title": "BLACKPINK: Light Up the Sky",
-    "overview": "Record-shattering Korean girl band BLACKPINK tell their story — and detail the hard fought journey of the dreams and trials behind their meteoric rise.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
-    ]
-  },
-  {
-    "title": "Baraka",
-    "overview": "A paralysingly beautiful documentary with a global vision—an odyssey through landscape and time—that attempts to capture the essence of life.",
-    "cast": [
-      "Journeyman (uncredited)"
+      "Sakuta Azusagawa",
+      "Mai Sakurajima",
+      "Kaede Azusagawa",
+      "Tomoe Koga",
+      "Rio Futaba",
+      "Nodoka Toyohama",
+      "Shoko Makinohara",
+      "Saki Kamisato",
+      "Yuma Kunimi"
     ]
   },
   {
     "title": "Wolfwalkers",
     "overview": "In a time of superstition and magic, when wolves are seen as demonic and nature an evil to be tamed, a young apprentice hunter comes to Ireland with her father to wipe out the last pack. But when she saves a wild native girl, their friendship leads her to discover the world of the Wolfwalkers and transform her into the very thing her father is tasked to destroy.",
     "cast": [
-      "Robyn Goodfellowe (voice)",
-      "Mebh Óg MacTíre (voice)",
-      "Robyn's Father, Bill Goodfellowe (voice)",
-      "Lord Protector (voice)",
-      "Sean Óg (voice)",
-      "Mebh's Mother, Moll MacTíre (voice)",
-      "Stringy Woodcutter, Ned (voice)",
-      "Stumpy Woodcutter (voice)",
-      "Head Housekeeper, Bridget (voice)"
+      "Robyn Goodfellowe",
+      "Mebh Óg MacTíre",
+      "Robyn's Father",
+      "Lord Protector",
+      "Sean Óg",
+      "Mebh's Mother",
+      "Stringy Woodcutter"
     ]
   },
   {
     "title": "Wolf Children",
     "overview": "After her werewolf lover unexpectedly dies in an accident, a woman must find a way to raise the son and daughter that she had with him. However, their inheritance of their father's traits prove to be a challenge for her.",
     "cast": [
-      "Yuki (voice)",
-      "Ame (voice)",
-      "Hana (voice)",
-      "Wolf Man (voice)",
-      "Yuki as a Child (voice)",
-      "Ame as a Child (voice)",
-      "Sohei (voice)",
-      "Sohei's Mother (voice)",
-      "Hosokawa (voice)"
+      "Yuki",
+      "Ame",
+      "Hana",
+      "Wolf Man",
+      "Yuki as a Child",
+      "Ame as a Child",
+      "Sohei",
+      "Sohei's Mother",
+      "Hosokawa"
     ]
   },
   {
     "title": "I Want to Eat Your Pancreas",
     "overview": "After his classmate and crush is diagnosed with a pancreatic disease, an average high schooler sets out to make the most of her final days.",
     "cast": [
-      "Haruki Shiga (voice)",
-      "Sakura Yamauchi (voice)",
-      "Kyoko Takimoto (voice)",
-      "Takahiro (voice)",
-      "Issei Miyata (voice)",
-      "Haruki's Mother (voice)",
-      "Haruki's Father (voice)",
-      "Sakura's Mother (voice)",
-      "Hospital Announcement (voice)"
+      "Haruki Shiga",
+      "Sakura Yamauchi",
+      "Kyoko Takimoto",
+      "Takahiro",
+      "Issei Miyata",
+      "Haruki's Mother",
+      "Haruki's Father",
+      "Sakura's Mother",
+      "Hospital Announcement"
     ]
   },
   {
@@ -1595,39 +1395,37 @@
       "Danilo Borelli 'Bibi'",
       "Gianna Cortona",
       "Zia Lidia",
-      "Moglie del commendatore",
-      "Zia Enrica",
-      "Bikini girl with leg cast"
+      "Zia Enrica"
     ]
   },
   {
     "title": "Puss in Boots: The Last Wish",
     "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
     "cast": [
-      "Puss in Boots (voice)",
-      "Kitty Softpaws (voice)",
-      "Perrito (voice)",
-      "Wolf (voice)",
-      "Goldilocks (voice)",
-      "Mama Bear (voice)",
-      "Papa Bear (voice)",
-      "Baby Bear (voice)",
-      "Jack Horner (voice)"
+      "Puss in Boots",
+      "Kitty Softpaws",
+      "Perrito",
+      "Wolf",
+      "Goldilocks",
+      "Mama Bear",
+      "Papa Bear",
+      "Baby Bear",
+      "Jack Horner"
     ]
   },
   {
     "title": "Justice League Dark: Apokolips War",
     "overview": "Earth is decimated after intergalactic tyrant Darkseid has devastated the Justice League in a poorly executed war by the DC Super Heroes. Now the remaining bastions of good – the Justice League, Teen Titans, Suicide Squad and assorted others – must regroup, strategize and take the war to Darkseid in order to save the planet and its surviving inhabitants.",
     "cast": [
-      "John Constantine (voice)",
-      "Clark Kent / Superman (voice)",
-      "Rachel Roth / Raven (voice)",
-      "Bruce Wayne / Batman (voice)",
-      "Diana Prince / Wonder Woman (voice)",
-      "Damian Wayne / Robin (voice)",
-      "Lois Lane (voice)",
-      "Lex Luthor (voice)",
-      "Darkseid (voice)"
+      "John Constantine",
+      "Clark Kent",
+      "Rachel Roth",
+      "Bruce Wayne",
+      "Diana Prince",
+      "Damian Wayne",
+      "Lois Lane",
+      "Lex Luthor",
+      "Darkseid"
     ]
   },
   {
@@ -1739,15 +1537,15 @@
     "title": "Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train",
     "overview": "Tanjiro Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyojuro Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
     "cast": [
-      "Tanjiro Kamado (voice)",
-      "Nezuko Kamado (voice)",
-      "Zenitsu Agatsuma (voice)",
-      "Inosuke Hashibira (voice)",
-      "Kyojuro Rengoku (voice)",
-      "Giyu Tomioka (voice)",
-      "Tengen Uzui (voice)",
-      "Shinobu Kocho (voice)",
-      "Obanai Iguro (voice)"
+      "Tanjiro Kamado",
+      "Nezuko Kamado",
+      "Zenitsu Agatsuma",
+      "Inosuke Hashibira",
+      "Kyojuro Rengoku",
+      "Giyu Tomioka",
+      "Tengen Uzui",
+      "Shinobu Kocho",
+      "Obanai Iguro"
     ]
   },
   {
@@ -1769,15 +1567,15 @@
     "title": "Coco",
     "overview": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
     "cast": [
-      "Miguel Rivera (voice)",
-      "Héctor (voice)",
-      "Ernesto de la Cruz (voice)",
-      "Mamá Imelda Rivera (voice)",
-      "Elena Rivera (voice)",
-      "Mamá Socorro \"Coco\" Rivera (voice)",
-      "Chicharrón (voice)",
-      "Papá Enrique Rivera (voice)",
-      "Papá Julio Rivera (voice)"
+      "Miguel Rivera",
+      "Héctor",
+      "Ernesto de la Cruz",
+      "Mamá Imelda Rivera",
+      "Elena Rivera",
+      "Mamá Socorro \"Coco\" Rivera",
+      "Chicharrón",
+      "Papá Enrique Rivera",
+      "Papá Julio Rivera"
     ]
   },
   {
@@ -1788,17 +1586,6 @@
       "The Woman",
       "Entomologist's Wife",
       "Village Elder"
-    ]
-  },
-  {
-    "title": "Night and Fog",
-    "overview": "Filmmaker Alain Resnais documents the atrocities behind the walls of Hitler's concentration camps.",
-    "cast": [
-      "Narrator (voice) (uncredited)",
-      "Self (archive footage) (uncredited)",
-      "Self (archive footage) (uncredited)",
-      "Self (archive footage) (uncredited)",
-      "Self (archive footage) (uncredited)"
     ]
   },
   {
@@ -1827,8 +1614,7 @@
       "Obi-Wan \"Ben\" Kenobi",
       "C-3PO",
       "R2-D2",
-      "Chewbacca",
-      "Darth Vader (performer)"
+      "Chewbacca"
     ]
   },
   {
@@ -1862,21 +1648,6 @@
     ]
   },
   {
-    "title": "Top Gun: Maverick",
-    "overview": "After more than thirty years of service as one of the Navy’s top aviators, and dodging the advancement in rank that would ground him, Pete “Maverick” Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
-    "cast": [
-      "Capt. Pete 'Maverick' Mitchell",
-      "Lt. Bradley 'Rooster' Bradshaw",
-      "Lt. Natasha 'Phoenix' Trace",
-      "Lt. Robert 'Bob' Floyd",
-      "Lt. Reuben 'Payback' Fitch",
-      "Lt. Mickey 'Fanboy' Garcia",
-      "Lt. Jake 'Hangman' Seresin",
-      "Wo-1. Bernie 'Hondo' Coleman",
-      "Adm. Beau 'Cyclone' Simpson"
-    ]
-  },
-  {
     "title": "Hacksaw Ridge",
     "overview": "WWII American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first Conscientious Objector in American history to receive the Congressional Medal of Honor.",
     "cast": [
@@ -1895,30 +1666,22 @@
     "title": "Maquia: When the Promised Flower Blooms",
     "overview": "Maquia is a member of a special race called the Iorph who can live for hundreds of years. However, Maquia has always felt lonely despite being surrounded by her people, as she was orphaned from a young age. She daydreams about the outside world, but dares not travel from her home due to the warnings of the clan's chief. One day the kingdom of Mezarte invades her homeland. They already have what is left of the giant dragons, the Renato, under their control, and now their king wishes to add the immortality to his bloodline. They ravage the Iorph homeland and kill most of its inhabitants. Caught in the midst of the attack, Maquia is carried off by one of the Renato. It soon dies, and she is left deserted in a forest, now truly alone save for the cries of a single baby off in the distance. Maquia finds the baby in a destroyed village and decides to raise him as her own, naming him Ariel. Although she knows nothing of the human world, how to raise a child that ages much faster than her.",
     "cast": [
-      "Maquia (voice)",
-      "Ariel (voice)",
-      "Ariel as a Child (voice)",
-      "Leilia (voice)",
-      "Krim (voice)",
-      "Lang (voice)",
-      "Mido (voice)",
-      "Dita (voice)",
-      "Racine (voice)"
+      "Maquia",
+      "Ariel",
+      "Ariel as a Child",
+      "Leilia",
+      "Krim",
+      "Lang",
+      "Mido",
+      "Dita",
+      "Racine"
     ]
   },
   {
     "title": "Out of the Clear Blue Sky",
     "overview": "Returning to Earth as an imitator, the legendary Mexican artist Pedro Infante must prove that he is no longer a womanizer to enter paradise.",
     "cast": [
-      "",
-      "",
-      "",
-      "",
-      "Jenny Infante",
-      "",
-      "",
-      "",
-      ""
+      "Jenny Infante"
     ]
   },
   {
@@ -1944,41 +1707,22 @@
       "Bruno",
       "Maria",
       "Baiocco",
-      "Alfredo Catelli, The Thief",
-      "The Beggar",
-      "The Charitable Lady",
-      "A Beggar",
-      "Secretary of the Charity Organization"
-    ]
-  },
-  {
-    "title": "Doctor Who: The Day of the Doctor",
-    "overview": "In 2013, something terrible is awakening in London's National Gallery; in 1562, a murderous plot is afoot in Elizabethan England; and somewhere in space an ancient battle reaches its devastating conclusion. All of reality is at stake as the Doctor's own dangerous past comes back to haunt him.",
-    "cast": [
-      "The Doctor (11)",
-      "The Doctor (10)",
-      "The War Doctor",
-      "Clara Oswald",
-      "The Moment",
-      "The Doctor (1) (archive footage)",
-      "The Doctor (2) (archive footage)",
-      "The Doctor (3) (archive footage)",
-      "The Doctor (4) (archive footage) / The Curator"
+      "Alfredo Catelli"
     ]
   },
   {
     "title": "Violet Evergarden: Eternity and the Auto Memory Doll",
     "overview": "Isabella, the daughter of the noble York family, is enrolled in an all-girls academy to be groomed into a dame worthy of nobility. However, she has given up on her future, seeing the prestigious school as nothing more than a prison from the outside world. Her family notices her struggling in her lessons and decides to hire Violet Evergarden to personally tutor her under the guise of a handmaiden. At first, Isabella treats Violet coldly. Violet seems to be able to do everything perfectly, leading Isabella to assume that she was born with a silver spoon. After some time, Isabella begins to realize that Violet has had her own struggles and starts to open up to her. Isabella soon reveals that she has lost contact with her beloved younger sister, whom she yearns to see again. Having experienced the power of words through her past clientele, Violet asks if Isabella wishes to write a letter to Taylor. Will Violet be able to help Isabella convey her feelings to her long-lost sister?",
     "cast": [
-      "Violet Evergarden (voice)",
-      "Amy Bartlett / Isabella York (voice)",
-      "Taylor Bartlett (voice)",
-      "Benedict Blue (voice)",
-      "Claudia Hodgins (voice)",
-      "Cattleya Baudelaire (voice)",
-      "Erica Brown (voice)",
-      "Iris Cannary (voice)",
-      "Luculia Marlborough (voice)"
+      "Violet Evergarden",
+      "Amy Bartlett",
+      "Taylor Bartlett",
+      "Benedict Blue",
+      "Claudia Hodgins",
+      "Cattleya Baudelaire",
+      "Erica Brown",
+      "Iris Cannary",
+      "Luculia Marlborough"
     ]
   },
   {
@@ -2000,7 +1744,7 @@
     "title": "The Art of Racing in the Rain",
     "overview": "A family dog – with a near-human soul and a philosopher's mind – evaluates his life through the lessons learned by his human owner, a race-car driver.",
     "cast": [
-      "Enzo (voice)",
+      "Enzo",
       "Denny Swift",
       "Mrs. Spangle",
       "Mr. Spangle",
@@ -2019,11 +1763,10 @@
       "Aaron Burr",
       "Angelica Schuyler",
       "Eliza Hamilton",
-      "Marquis de Lafayette / Thomas Jefferson",
       "George Washington",
-      "Peggy Schuyler / Maria Reynolds",
-      "Hercules Mulligan / James Madison",
-      "John Laurens / Philip Hamilton"
+      "Peggy Schuyler",
+      "Hercules Mulligan",
+      "John Laurens"
     ]
   },
   {
@@ -2032,13 +1775,7 @@
     "cast": [
       "Michael Jackson",
       "Michael's Girlfriend",
-      "Narrator (voice)",
-      "Zombie (uncredited)",
-      "Zombie (uncredited)",
-      "Zombie (uncredited)",
-      "Dancer (uncredited)",
-      "Man in Movie Theater (uncredited)",
-      "Zombie (uncredited)"
+      "Narrator"
     ]
   },
   {
@@ -2097,8 +1834,7 @@
       "Waiter",
       "Leonard's Wife",
       "Sammy",
-      "Mrs. Jankis",
-      "Doctor"
+      "Mrs. Jankis"
     ]
   },
   {
@@ -2108,8 +1844,7 @@
       "Alma",
       "Elisabet Vogler",
       "The Doctor",
-      "Herr Vogler",
-      "Elisabet's Son (uncredited)"
+      "Herr Vogler"
     ]
   },
   {
@@ -2143,48 +1878,33 @@
     ]
   },
   {
-    "title": "The Kid",
-    "overview": "A tramp cares for a boy after he's abandoned as a newborn by his mother. Later the mother has a change of heart and aches to be reunited with her son.",
-    "cast": [
-      "A Tramp",
-      "The Kid",
-      "The Man",
-      "The Woman",
-      "Car Thief / Man in Shelter (uncredited)",
-      "Bride (uncredited)",
-      "Slum Nurse (uncredited)",
-      "Professor Guido / Night Shelter Keeper (uncredited)",
-      "Orphan Asylum Driver (uncredited)"
-    ]
-  },
-  {
     "title": "Jujutsu Kaisen 0",
     "overview": "Yuta Okkotsu is a nervous high school student who is suffering from a serious problem—his childhood friend Rika has turned into a curse and won't leave him alone. Since Rika is no ordinary curse, his plight is noticed by Satoru Gojo, a teacher at Jujutsu High, a school where fledgling exorcists learn how to combat curses. Gojo convinces Yuta to enroll, but can he learn enough in time to confront the curse that haunts him?",
     "cast": [
-      "Yuta Okkotsu (voice)",
-      "Rika Orimoto (voice)",
-      "Satoru Gojo (voice)",
-      "Suguru Geto (voice)",
-      "Maki Zen'in (voice)",
-      "Toge Inumaki (voice)",
-      "Panda (voice)",
-      "Kiyotaka Ijichi (voice)",
-      "Masamichi Yaga (voice)"
+      "Yuta Okkotsu",
+      "Rika Orimoto",
+      "Satoru Gojo",
+      "Suguru Geto",
+      "Maki Zen'in",
+      "Toge Inumaki",
+      "Panda",
+      "Kiyotaka Ijichi",
+      "Masamichi Yaga"
     ]
   },
   {
     "title": "Steven Universe: The Movie",
     "overview": "Two years after bringing peace to the galaxy, Steven Universe sees his past come back to haunt him in the form of a deranged Gem who wants to destroy the Earth.",
     "cast": [
-      "Steven Universe (voice)",
-      "Pearl / Yellow Pearl (voice)",
-      "Garnet (voice)",
-      "Amethyst (voice)",
-      "Spinel (voice)",
-      "Greg Universe (voice)",
-      "Bismuth (voice)",
-      "Peridot (voice)",
-      "Lapis Lazuli (voice)"
+      "Steven Universe",
+      "Pearl",
+      "Garnet",
+      "Amethyst",
+      "Spinel",
+      "Greg Universe",
+      "Bismuth",
+      "Peridot",
+      "Lapis Lazuli"
     ]
   },
   {
@@ -2196,7 +1916,6 @@
       "Kim Yeon-doo",
       "Jin Yoo-ri",
       "Jeon Min-soo",
-      "Principal / Principal's Brother",
       "Yoon Ja-ae",
       "Park Bo-hyeon",
       "Young-hoon"
@@ -2206,30 +1925,30 @@
     "title": "My Hero Academia: Heroes Rising",
     "overview": "Class 1-A visits Nabu Island where they finally get to do some real hero work. The place is so peaceful that it's more like a vacation... until they're attacked by a villain with an unfathomable Quirk! His power is eerily familiar, and it looks like Shigaraki had a hand in the plan. But with All Might retired and citizens' lives on the line, there's no time for questions. Deku and his friends are the next generation of heroes, and they're the island's only hope.",
     "cast": [
-      "Izuku Midoriya (voice)",
-      "Katsuki Bakugo (voice)",
-      "Nine (voice)",
-      "Slice (voice)",
-      "Katsuma (voice)",
-      "Mahoro (voice)",
-      "Shoto Todoroki (voice)",
-      "Tenya Iida (voice)",
-      "Ochako Uraraka (voice)"
+      "Izuku Midoriya",
+      "Katsuki Bakugo",
+      "Nine",
+      "Slice",
+      "Katsuma",
+      "Mahoro",
+      "Shoto Todoroki",
+      "Tenya Iida",
+      "Ochako Uraraka"
     ]
   },
   {
     "title": "Transformers One",
     "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
     "cast": [
-      "Orion Pax / Optimus Prime (voice)",
-      "D-16 / Megatron (voice)",
-      "Elita-1 (voice)",
-      "B-127 (voice)",
-      "Sentinel Prime (voice)",
-      "Starscream (voice)",
-      "Alpha Trion (voice)",
-      "Airachnid (voice)",
-      "Soundwave (voice)"
+      "Optimus Prime",
+      "Megatron",
+      "Elita-1",
+      "B-127",
+      "Sentinel Prime",
+      "Starscream",
+      "Alpha Trion",
+      "Airachnid",
+      "Soundwave"
     ]
   },
   {
@@ -2282,7 +2001,7 @@
     "overview": "A retired San Francisco detective suffering from acrophobia investigates the strange activities of an old friend's wife, all the while becoming dangerously obsessed with her.",
     "cast": [
       "Det. John 'Scottie' Ferguson",
-      "Madeleine Elster / Judy Barton",
+      "Madeleine Elster",
       "Marjorie 'Midge' Wood",
       "Gavin Elster",
       "Coroner",
@@ -2311,15 +2030,14 @@
     "title": "Green Snake",
     "overview": "While trying to free her sister from Fahai's clutches, Xiao Qing winds up in a dystopian city and meets a mysterious man who can't recall his past life.",
     "cast": [
-      "Xiao Qing (voice)",
-      "Masked Man (voice)",
-      "Sima (voice)",
-      "牛头帮主 (voice)",
-      "宝青坊主(voice)",
-      "老狐狸宝青坊主 (voice)",
-      "Fa Hai (voice)",
-      "孙姐(voice)",
-      "(voice)"
+      "Xiao Qing",
+      "Masked Man",
+      "Sima",
+      "牛头帮主",
+      "宝青坊主",
+      "老狐狸宝青坊主",
+      "Fa Hai",
+      "孙姐"
     ]
   },
   {
@@ -2393,7 +2111,7 @@
       "Ash",
       "Parker",
       "Alien",
-      "Mother (voice)"
+      "Mother"
     ]
   },
   {
@@ -2422,8 +2140,7 @@
       "R.F. Simpson",
       "Dancer",
       "Roscoe Dexter",
-      "Zelda Zanders",
-      "Hairdresser (uncredited)"
+      "Zelda Zanders"
     ]
   },
   {
@@ -2506,13 +2223,13 @@
     "overview": "Every second of every day, from the moment he was born, for the last thirty years, Truman Burbank has been the unwitting star of the longest running, most popular documentary-soap opera in history. The picture-perfect town of Seahaven that he calls home is actually a gigantic soundstage. Truman's friends and family - everyone he meets, in fact - are actors. He lives every moment under the unblinking gaze of thousands of hidden TV cameras.",
     "cast": [
       "Truman Burbank",
-      "Meryl Burbank / Hannah Gill",
-      "Marlon / Louis Coltrane",
-      "Lauren Garland / Sylvia",
-      "Angela Montclair / Alanis Montclair",
+      "Meryl Burbank",
+      "Marlon",
+      "Lauren",
+      "Angela",
       "Christof",
       "Simeon",
-      "Walter Moore / Kirk Burbank",
+      "Walter",
       "Lawrence"
     ]
   },
@@ -2520,13 +2237,13 @@
     "title": "Zack Snyder's Justice League",
     "overview": "Determined to ensure Superman's ultimate sacrifice was not in vain, Bruce Wayne aligns forces with Diana Prince with plans to recruit a team of metahumans to protect the world from an approaching threat of catastrophic proportions.",
     "cast": [
-      "Batman / Bruce Wayne",
-      "Superman / Clark Kent",
-      "Wonder Woman / Diana Prince",
-      "Cyborg / Victor Stone",
-      "Aquaman / Arthur Curry",
-      "The Flash / Barry Allen",
-      "Steppenwolf (voice)",
+      "Batman",
+      "Superman",
+      "Wonder Woman",
+      "Cyborg",
+      "Aquaman",
+      "The Flash",
+      "Steppenwolf",
       "Lois Lane",
       "Vulko"
     ]
@@ -2579,21 +2296,6 @@
       "Red Ryder",
       "Popeye",
       "Wallace"
-    ]
-  },
-  {
-    "title": "Homecoming: A Film by Beyoncé",
-    "overview": "This intimate, in-depth look at Beyoncé's celebrated 2018 Coachella performance reveals the emotional road from creative concept to cultural movement.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
     ]
   },
   {
@@ -2708,11 +2410,9 @@
       "Gang-rim",
       "Hae Won-maek",
       "Deok-choon",
-      "Sung-ju / Household God",
+      "Sung-ju",
       "Kim Su-hong",
       "King Yeomra",
-      "Prosecutor",
-      "Prosecutor",
       "Heo Choon-sam"
     ]
   },
@@ -2720,56 +2420,25 @@
     "title": "Soul",
     "overview": "Joe Gardner is a middle school teacher with a love for jazz music. After a successful audition at the Half Note Club, he suddenly gets into an accident that separates his soul from his body and is transported to the You Seminar, a center in which souls develop and gain passions before being transported to a newborn child. Joe must enlist help from the other souls-in-training, like 22, a soul who has spent eons in the You Seminar, in order to get back to Earth.",
     "cast": [
-      "Joe Gardner (voice)",
-      "22 (voice)",
-      "Moonwind (voice)",
-      "Terry (voice)",
-      "Counselor Jerry (voice)",
-      "Counselor Jerry (voice)",
-      "Libba Gardner (voice)",
-      "Dez (voice)",
-      "Curly (voice)"
-    ]
-  },
-  {
-    "title": "The Father",
-    "overview": "A man refuses all assistance from his daughter as he ages and, as he tries to make sense of his changing circumstances, he begins to doubt his loved ones, his own mind and even the fabric of his reality.",
-    "cast": [
-      "Anthony",
-      "Anne",
-      "The Man",
-      "The Woman",
-      "Laura",
-      "Paul",
-      "Dr. Sarai",
-      "Boy"
-    ]
-  },
-  {
-    "title": "Senna",
-    "overview": "The remarkable story of Brazilian racing driver Ayrton Senna, charting his physical and spiritual achievements on the track and off, his quest for perfection, and the mythical status he has since attained, is the subject of Senna, a documentary feature that spans the racing legend's years as an F1 driver, from his opening season in 1984 to his untimely death a decade later.",
-    "cast": [
-      "Self (archive footage)",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
+      "Joe Gardner",
+      "22",
+      "Moonwind",
+      "Terry",
+      "Counselor Jerry",
+      "Libba Gardner",
+      "Dez",
+      "Curly"
     ]
   },
   {
     "title": "Reservoir Dogs",
     "overview": "A botched robbery indicates a police informant, and the pressure mounts in the aftermath at a warehouse. Crime begets violence as the survivors -- veteran Mr. White, newcomer Mr. Orange, psychopathic parolee Mr. Blonde, bickering weasel Mr. Pink and Nice Guy Eddie -- unravel.",
     "cast": [
-      "Mr. White / Larry Dimmick",
-      "Mr. Orange / Freddy Newandyke",
-      "Mr. Blonde / Vic Vega",
-      "\"Nice Guy\" Eddie Cabot",
+      "Mr. White",
+      "Mr. Orange",
+      "Mr. Blonde",
+      "\"Nice Guy\" Eddie",
       "Mr. Pink",
-      "Joe Cabot",
       "Detective Holdaway",
       "Officer Marvin Nash",
       "Mr. Blue"
@@ -2840,21 +2509,20 @@
     "overview": "In a futuristic city sharply divided between the rich and the poor, the son of the city's mastermind meets a prophet who predicts the coming of a savior to mediate their differences.",
     "cast": [
       "Freder Fredersen",
-      "Maria / The Machine Man",
-      "Johann 'Joh' Fredersen",
+      "Maria",
+      "Johann 'Joh'",
       "C.A. Rotwang",
       "Josaphat",
       "The Thin Man",
-      "No. 11811 - Georgy",
-      "Grot",
-      "Creative Human - Man Who Convinces Babel (uncredited)"
+      "No. 11811",
+      "Grot"
     ]
   },
   {
     "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
     "overview": "After the insane General Jack D. Ripper initiates a nuclear strike on the Soviet Union, a war room full of politicians, generals and a Russian diplomat all frantically try to stop the nuclear strike.",
     "cast": [
-      "Group Capt. Lionel Mandrake / President Merkin Muffley / Dr. Strangelove",
+      "Group Capt. Lionel Mandrake",
       "General \"Buck\" Turgidson",
       "Brigadier General Jack D. Ripper",
       "Colonel Bat Guano",
@@ -2961,23 +2629,7 @@
       "The Angel Maker",
       "The Workshop Student",
       "The Lounge Man",
-      "The Boatman",
-      "Peasant Woman (uncredited)"
-    ]
-  },
-  {
-    "title": "The Salt of the Earth",
-    "overview": "During the last forty years, the photographer Sebastião Salgado has been travelling through the continents, in the footsteps of an ever-changing humanity. He has witnessed the major events of our recent history: international conflicts, starvations and exodus… He is now embarking on the discovery of pristine territories, of the wild fauna and flora, of grandiose landscapes: a huge photographic project which is a tribute to the planet's beauty. Salgado's life and work are revealed to us by his son, Juliano, who went with him during his last journeys, and by Wim Wenders, a photographer himself.",
-    "cast": [
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self",
-      "Self"
+      "The Boatman"
     ]
   },
   {
@@ -3006,8 +2658,7 @@
       "Anne",
       "Doctor Ulmer",
       "Gas Station Attendant",
-      "Car Rental Clerk",
-      "Woman on TV"
+      "Car Rental Clerk"
     ]
   },
   {
@@ -3029,30 +2680,27 @@
     "title": "New Gods: Nezha Reborn",
     "overview": "While living as an ordinary deliveryman and motor racing fan, Nezha encounters old nemeses and must rediscover his powers to protect his loved ones.",
     "cast": [
-      "Li Yunxiang (voice)",
-      "Masked Guy (voice)",
-      "Long Wang (voice)",
-      "Dr. Su Junzhu (voice)",
-      "Kasha (voice)",
-      "Third Prince (voice)",
-      "Father (voice)",
-      "Father (voice)",
-      "Li Yunxiang's Bother (voice)"
+      "Li Yunxiang",
+      "Masked Guy",
+      "Long Wang",
+      "Dr. Su Junzhu",
+      "Kasha",
+      "Third Prince"
     ]
   },
   {
     "title": "Mortal Kombat Legends: Scorpion's Revenge",
     "overview": "After the vicious slaughter of his family by stone-cold mercenary Sub-Zero, Hanzo Hasashi is exiled to the torturous Netherrealm. There, in exchange for his servitude to the sinister Quan Chi, he’s given a chance to avenge his family – and is resurrected as Scorpion, a lost soul bent on revenge. Back on Earthrealm, Lord Raiden gathers a team of elite warriors – Shaolin monk Liu Kang, Special Forces officer Sonya Blade and action star Johnny Cage – an unlikely band of heroes with one chance to save humanity. To do this, they must defeat Shang Tsung’s horde of Outworld gladiators and reign over the Mortal Kombat tournament.",
     "cast": [
-      "Hanzo Hasashi / Scorpion (voice)",
-      "Liu Kang (voice)",
-      "Sonya Blade (voice)",
-      "Johnny Cage (voice)",
-      "Jax Briggs (voice)",
-      "Sub-Zero (voice)",
-      "Shang Tsung / Lin Kuei Assasin (voice)",
-      "Quan Chi (voice)",
-      "Kano / Shinnok (voice)"
+      "Hanzo Hasashi",
+      "Liu Kang",
+      "Sonya Blade",
+      "Johnny Cage",
+      "Jax Briggs",
+      "Sub-Zero",
+      "Shang Tsung",
+      "Quan Chi",
+      "Kano"
     ]
   },
   {
@@ -3089,15 +2737,12 @@
     "title": "The Tale of The Princess Kaguya",
     "overview": "Found inside a shining stalk of bamboo by an old bamboo cutter and his wife, a tiny girl grows rapidly into an exquisite young lady. The mysterious young princess enthrals all who encounter her. But, ultimately, she must confront her fate.",
     "cast": [
-      "The Princess Kaguya (voice)",
-      "The Bamboo Cutter (voice)",
-      "The Bamboo Cutter's Wife / Narrator (voice)",
-      "Sutemaru (voice)",
-      "Lady Sagami (voice)",
-      "Kaguya's Maid Girl (voice)",
-      "Lord Akita (voice)",
-      "Prince Ishitsukuri (voice)",
-      "Minister of the Right Abe (voice)"
+      "The Princess Kaguya",
+      "The Bamboo Cutter",
+      "Sutemaru",
+      "Lord Akita",
+      "Prince Ishitsukuri",
+      "Minister of the Right Abe"
     ]
   },
   {
@@ -3119,8 +2764,8 @@
     "title": "Some Like It Hot",
     "overview": "Two musicians witness a mob hit and struggle to find a way out of the city before they are found by the gangsters. Their only opportunity is to join an all-girl band as they leave on a tour. To make their getaway they must first disguise themselves as women, then keep their identities secret and deal with the problems this brings - such as an attractive bandmate and a very determined suitor.",
     "cast": [
-      "Joe (Josephine)",
-      "Jerry (Daphne)",
+      "Joe",
+      "Jerry",
       "Sugar Kane Kowalczyk",
       "Spats Colombo",
       "Detective Mulligan",
@@ -3164,12 +2809,11 @@
     "title": "Red Beard",
     "overview": "Aspiring to an easy job as personal physician to a wealthy family, Noboru Yasumoto is disappointed when his first post after medical school takes him to a small country clinic under the gruff doctor Red Beard. Yasumoto rebels in numerous ways, but Red Beard proves a wise and patient teacher. He gradually introduces his student to the unglamorous side of the profession, ultimately assigning him to care for a prostitute rescued from a local brothel.",
     "cast": [
-      "Dr. Kyojio Niide (\"Red Beard\")",
+      "Dr. Kyojio Niide",
       "Dr. Noboru Yasumoto",
       "Sahachi",
       "Osugi",
       "Onaka",
-      "Madwoman (\"The Mantis\")",
       "Genzô Tsugawa",
       "Otoyo",
       "Okuni"
@@ -3179,7 +2823,7 @@
     "title": "Yojimbo",
     "overview": "A nameless ronin, or samurai with no master, enters a small village in feudal Japan where two rival businessmen are struggling for control of the local gambling trade. Taking the name Sanjuro Kuwabatake, the ronin convinces both silk merchant Tazaemon and sake merchant Tokuemon to hire him as a personal bodyguard, then artfully sets in motion a full-scale gang war between the two ambitious and unscrupulous men.",
     "cast": [
-      "Sanjuro Kuwabatake / The Samurai",
+      "Sanjuro Kuwabatake",
       "Unosuke, gunfighter",
       "Nui",
       "Orin",
@@ -3200,7 +2844,7 @@
       "Lord Voldemort",
       "Severus Snape",
       "Albus Dumbledore",
-      "Griphook / Filius Flitwick",
+      "Griphook",
       "Bellatrix Lestrange",
       "Aberforth Dumbledore"
     ]
@@ -3209,15 +2853,13 @@
     "title": "WALL·E",
     "overview": "What if mankind had to leave Earth and somebody forgot to turn the last robot off? After hundreds of years doing what he was built for, WALL•E discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
     "cast": [
-      "WALL·E / M-O (voice)",
-      "EVE (voice)",
-      "Captain (voice)",
-      "Shelby Forthright, BnL CEO",
-      "John (voice)",
-      "Mary (voice)",
-      "Ship's Computer (voice)",
-      "Additional Voices (voice)",
-      "Additional Voices (voice)"
+      "WALL·E",
+      "EVE",
+      "Captain",
+      "Shelby Forthright",
+      "John",
+      "Mary",
+      "Ship's Computer"
     ]
   },
   {
@@ -3269,12 +2911,12 @@
     "title": "Children of Paradise",
     "overview": "In a chaotic 19th-century Paris teeming with aristocrats, thieves, psychics, and courtesans, theater mime Baptiste is in love with the mysterious actress Garance. But Garance, in turn, is loved by three other men: pretentious actor Frederick, conniving thief Lacenaire, and Count Edouard of Montray.",
     "cast": [
-      "Claire Reine, dite Garance",
-      "Baptiste Debureau",
-      "Frédérick Lemaître",
-      "Pierre-François Lacenaire",
+      "Garance",
+      "Baptiste",
+      "Frédérick",
+      "Pierre-François",
       "Nathalie",
-      "Édouard comte de Montray",
+      "Édouard",
       "Jericho",
       "Mme Hermine",
       "Fil de Soie"
@@ -3284,30 +2926,30 @@
     "title": "Miraculous World: New York, United HeroeZ",
     "overview": "Marinette’s class is headed to New York, the city of superheroes, for French-American Friendship Week. The whole class is there...except Adrien, whose father refuses to let him go!",
     "cast": [
-      "Marinette / Ladybug (voice)",
-      "Adrien Agreste / Cat Noir (voice)",
-      "Gabriel Agreste / Hawk Moth (voice)",
-      "Alya Césaire (voice)",
-      "Plagg (voice)",
-      "Tikki / Juleka Couffaine (voice)",
-      "Nooroo / Max Kanté (voice)",
-      "Rose Lavillant (voice)",
-      "Jessica Keynes (voice)"
+      "Marinette",
+      "Adrien Agreste",
+      "Gabriel Agreste",
+      "Alya Césaire",
+      "Plagg",
+      "Tikki",
+      "Nooroo",
+      "Rose Lavillant",
+      "Jessica Keynes"
     ]
   },
   {
     "title": "KONOSUBA – God's blessing on this wonderful world! Legend of Crimson",
     "overview": "It is not strange that the Demon Lord's forces fear the Crimson Demons, the clan from which Megumin and Yunyun originate. Even if the Demon Lord's generals attack their village, the Crimson Demons can just easily brush them off with their supreme mastery of advanced and overpowered magic. When Yunyun receives a seemingly serious letter regarding a potential disaster coming to her hometown, she immediately informs Kazuma Satou and the rest of his party. After a series of wacky misunderstandings, it turns out to be a mere prank by her fellow demon who wants to be an author. Even so, Megumin becomes worried about her family and sets out toward the Crimson Demons' village with the gang. There, Kazuma and the others decide to sightsee the wonders of Megumin's birthplace. However, they soon come to realize that the nonsense threat they received might have been more than just a joke.",
     "cast": [
-      "Kazuma Satou (voice)",
-      "Megumin (voice)",
-      "Aqua (voice)",
-      "Lalatina 'Darkness' Dustiness Ford (voice)",
-      "Wiz (voice)",
-      "Yunyun (voice)",
-      "Sylvia (voice)",
-      "Hyoizaburo (voice)",
-      "Yuiyui (voice)"
+      "Kazuma Satou",
+      "Megumin",
+      "Aqua",
+      "Lalatina 'Darkness' Dustiness Ford",
+      "Wiz",
+      "Yunyun",
+      "Sylvia",
+      "Hyoizaburo",
+      "Yuiyui"
     ]
   },
   {
@@ -3329,15 +2971,15 @@
     "title": "Guillermo del Toro's Pinocchio",
     "overview": "During the rise of fascism in Mussolini's Italy, a wooden boy brought magically to life struggles to live up to his father's expectations.",
     "cast": [
-      "Cricket (voice)",
-      "Geppetto (voice)",
-      "Pinocchio / Carlo (voice)",
-      "Priest (voice)",
-      "Podesta (voice)",
-      "Dottore (voice)",
-      "Candlewick (voice)",
-      "Spazzatura (voice)",
-      "Black Rabbits (voice)"
+      "Cricket",
+      "Geppetto",
+      "Pinocchio",
+      "Priest",
+      "Podesta",
+      "Dottore",
+      "Candlewick",
+      "Spazzatura",
+      "Black Rabbits"
     ]
   },
   {
@@ -3403,7 +3045,7 @@
     "title": "Earthlings",
     "overview": "Using hidden cameras and never-before-seen footage, Earthlings chronicles the day-to-day practices of the largest industries in the world, all of which rely entirely on animals for profit.",
     "cast": [
-      "Narrator (voice)"
+      "Narrator"
     ]
   },
   {
@@ -3411,7 +3053,7 @@
     "overview": "Ruthless silver miner, turned oil prospector, Daniel Plainview, moves to oil-rich California. Using his son to project a trustworthy, family-man image, Plainview cons local landowners into selling him their valuable properties for a pittance. However, local preacher Eli Sunday suspects Plainview's motives and intentions, starting a slow-burning feud that threatens both their lives.",
     "cast": [
       "Daniel Plainview",
-      "Paul Sunday / Eli Sunday",
+      "Paul Sunday",
       "Henry",
       "Fletcher Hamilton",
       "H.W. Plainview",
@@ -3419,19 +3061,6 @@
       "Mary Sunday",
       "H. B. Ailman",
       "Abel Sunday"
-    ]
-  },
-  {
-    "title": "Robot Dreams",
-    "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
-    "cast": [
-      "Dog / Robot / Various (voice)",
-      "Various (voice)",
-      "Various (voice)",
-      "Various (voice)",
-      "Various (voice)",
-      "Duck / Various (voice)",
-      "Various (voice)"
     ]
   },
   {
@@ -3491,7 +3120,7 @@
       "Dr. David Bowman",
       "Dr. Frank Poole",
       "Dr. Heywood Floyd",
-      "HAL 9000 (voice)",
+      "HAL 9000",
       "Moonwatcher",
       "Dr. Andrei Smyslov",
       "Elena",
@@ -3530,36 +3159,6 @@
     ]
   },
   {
-    "title": "Samsara",
-    "overview": "Filmed over nearly five years in twenty-five countries on five continents, and shot on seventy-millimetre film, Samsara transports us to the varied worlds of sacred grounds, disaster zones, industrial complexes, and natural wonders.",
-    "cast": [
-      "Dancer: Valinese Tari Legong Dancers, Indonesia",
-      "Dancer: Valinese Tari Legong Dancers, Indonesia",
-      "Dancer: Valinese Tari Legong Dancers, Indonesia",
-      "Tattoo Daddy: USA",
-      "Professor and Robot Clone: Japan",
-      "Man At Desk: France",
-      "Dancers: Thailand",
-      "Geisha: Japan",
-      "Lead Singer: Cebu Provincial Detenton Center, Philippines"
-    ]
-  },
-  {
-    "title": "Sherlock Jr.",
-    "overview": "A film projectionist longs to be a detective, and puts his meagre skills to work when he is framed by a rival for stealing his girlfriend's father's pocketwatch.",
-    "cast": [
-      "Projectionist / Sherlock, Jr.",
-      "Girl",
-      "Girl's Father / Man on Film Screen",
-      "Hired Man / Butler",
-      "Sheik / Villain",
-      "Girl Who Loses Dollar Outside Cinema (uncredited)",
-      "Candy Store Girl (uncredited)",
-      "Conspirator (uncredited)",
-      "Conspirator (uncredited)"
-    ]
-  },
-  {
     "title": "Me Against You: Mr. S's Vendetta",
     "overview": "A young couple who makes popular YouTube videos for children sets out to win an award, but an evil mastermind stands in the way of their success.",
     "cast": [
@@ -3569,8 +3168,7 @@
       "Pongo",
       "Signora Marisa",
       "Presentatrice",
-      "Vecchio saggio",
-      "Signor S (voce)"
+      "Vecchio saggio"
     ]
   },
   {
@@ -3597,7 +3195,6 @@
       "Trent",
       "Clarity June \"CJ\" Mitchell",
       "Ethan Montgomery",
-      "Bailey / Molly / Big Dog / Max (voice)",
       "Young CJ",
       "Toddler CJ",
       "Young Trent"
@@ -3622,15 +3219,15 @@
     "title": "My Neighbor Totoro",
     "overview": "Two sisters move to the country with their father in order to be closer to their hospitalized mother, and discover the surrounding trees are inhabited by Totoros, magical spirits of the forest. When the youngest runs away from home, the older sister seeks help from the spirits to find her.",
     "cast": [
-      "Satsuki Kusakabe (voice)",
-      "Mei Kusakabe (voice)",
-      "Totoro (voice)",
-      "Tatsuo Kusakabe (voice)",
-      "Yasuko Kusakabe (voice)",
-      "Granny (voice)",
-      "Kanta Ogaki (voice)",
-      "Kanta's Mother (voice)",
-      "Kanta's Father (voice)"
+      "Satsuki Kusakabe",
+      "Mei Kusakabe",
+      "Totoro",
+      "Tatsuo Kusakabe",
+      "Yasuko Kusakabe",
+      "Granny",
+      "Kanta Ogaki",
+      "Kanta's Mother",
+      "Kanta's Father"
     ]
   }
 ]
